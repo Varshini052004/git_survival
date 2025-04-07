@@ -1,2 +1,1 @@
-echo "I’m still screwed." > readme.md
-
+No, I'm the best.
