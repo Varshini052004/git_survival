@@ -1,7 +1,6 @@
 Fix everything
 Branch switching is a nightmare
- 
- another bug
-another fixed it
- 
- 
+
+Try this
+ Nope
+ Maybe
